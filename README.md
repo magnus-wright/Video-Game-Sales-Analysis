@@ -4,7 +4,7 @@ This repository contains an analysis of video game sales data. The analysis expl
 
 ## Data Source
 
-The data used in this analysis is sourced from Kaggle, the data can be accessed [here](https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings) which provides information on video game sales across different regions.
+The data used in this analysis is sourced from Kaggle, the data can be accessed [here](https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings) which provides information on video game sales across different regions, genres and gaming platforms.
 
 ## Analysis Overview
 
