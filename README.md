@@ -4,21 +4,22 @@ This repository contains an analysis of video game sales data. The analysis expl
 
 ## Data Source
 
-The data used in this analysis is sourced from [insert data source here], which provides information on video game sales across different regions.
+The data used in this analysis is sourced from Kaggle, the data can be accessed [here](https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings) which provides information on video game sales across different regions.
 
 ## Analysis Overview
 
 The analysis includes the following key components:
 
-1. **Exploratory Data Analysis (EDA)**: An initial exploration of the dataset to understand its structure and contents.
+1. **Data Cleaning**: An initial dropping of high null value columns.
 
-2. **Sales Trends**: Examination of sales trends over time to identify patterns and changes in the video game market.
+2. **Sales Trends**: Examination of sales trends over time to identify patterns and changes in the video game market. 
 
-3. **Genre Analysis**: Investigation of the popularity of different video game genres and their contribution to overall sales.
+3. **Genre Analysis**: Investigation of the popularity of different video game genres over time and their contribution to overall sales.
 
-4. **Platform Analysis**: Evaluation of the market share and performance of different gaming platforms.
+4. **Regional Variations**: Analysis of sales variations across different regions, including North America, Europe, Japan, and others. A further analysis of popularity of video game genres by regions.
+   
+5. **Platform Analysis**: Evaluation of the market share and performance of different gaming platforms.
 
-5. **Regional Variations**: Analysis of sales variations across different regions, including North America, Europe, Japan, and others.
 
 ## Files
 
